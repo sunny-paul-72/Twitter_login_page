@@ -1,0 +1,21 @@
+.foot1 {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 14px;
+    opacity: 0.5;
+}
+
+.foot2 {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 14px;
+    opacity: 0.5;
+
+}
+
+#bottom2 {
+    height: 30px;
+    padding-left: 390px;
+    display: flex;
+    align-items: center;
+}

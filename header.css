@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial;
+}
+
+body {
+    color: white;
+    background-color: black;
+}
+
+#header {
+    height: 170px;
+    font-size: 75px;
+    display: flex;
+    align-items: end;
+}
+
+#header_text {
+    font-weight: 600;
+    position: absolute;
+    right: 40px;
+}

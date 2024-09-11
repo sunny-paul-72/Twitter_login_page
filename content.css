@@ -1,0 +1,115 @@
+#content {
+    height: 500px;
+    /* background-color: rgb(234, 159, 159); */
+}
+#today {
+    font-size: 30px;
+    font-weight: 600;
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    left: 710px;
+}
+
+#sign_up {
+    height: 240px;
+    width: 320px;
+    position: absolute;
+    top: 250px;
+    right: 280px;
+}
+
+#sign1 {
+    height: 40px;
+    color: black;
+    background-color: white;
+    border-radius: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sign2 {
+    height: 40px;
+    color: black;
+    background-color: white;
+    border-radius: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+#line1 {
+    border: 1px solid white;
+    margin: 16px 185px 0px 10px;
+    opacity: 0.2;
+}
+#line2 {
+    border: 1px solid white;
+    margin: 0px 10px 0px 170px;
+    opacity: 0.2;
+}
+#line3 {
+    display: inline-block;
+    position: relative;
+    left: 145px;
+    bottom: 13px;
+}
+
+#create_account_button {
+    height: 40px;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    border-radius: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#paragraph {
+    font-size: 12px;
+    margin-top: 9px;
+}
+
+#already_account {
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+    top: 535px;
+    right: 400px;
+}
+
+#sign_in {
+    height: 40px;
+    width: 320px;
+    color:  skyblue;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 45px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    position: absolute;
+    top: 560px;
+    right: 280px;
+    opacity: 0.5;
+}
+
+.logo {
+    height: 450px;
+    width: 450px;
+    background-image: url(twitter_logo.png);
+    background-size: cover;
+    position: absolute;
+    left: 130px;
+    bottom: 90px;
+}
