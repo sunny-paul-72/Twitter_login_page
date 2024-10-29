@@ -1,1 +1,5 @@
-# Twitter_login_page
+{
+  "rewrites": [
+    {"source": "/(.*)", "destination": "/"}
+  ]
+}
